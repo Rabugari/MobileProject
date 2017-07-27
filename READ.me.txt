@@ -1,0 +1,1 @@
+Para o aplicativo funcionar, deve-se subir a aplicação Web. Localizada: android-sync/server/server.jar
